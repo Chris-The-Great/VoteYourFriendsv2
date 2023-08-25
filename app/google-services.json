@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577028366380",
+    "project_id": "voteyourfriends",
+    "storage_bucket": "voteyourfriends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577028366380:android:61b42704090f787f597189",
+        "android_client_info": {
+          "package_name": "com.example.voteyourfriendsv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577028366380-vso3krmna43l5lvflcuetmebpcl3ahpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwYCMbvqRVbMpk2JR9_IaN8Gkm9IleuEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577028366380-vso3krmna43l5lvflcuetmebpcl3ahpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
